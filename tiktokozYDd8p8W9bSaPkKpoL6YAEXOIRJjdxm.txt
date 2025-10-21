@@ -1,1 +1,20 @@
-tiktok-developers-site-verification=ozYDd8p8W9bSaPkKpoL6YAEXOIRJjdxm
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DreamPatch Creator – TikTok Verification Checklist</title>
+</head>
+<body>
+  <h1>Verification Checklist</h1>
+  <ul>
+    <li><strong>App Name:</strong> DreamPatch Creator</li>
+    <li><strong>Hosted Domain:</strong> https://dreampatchlabs.github.io</li>
+    <li><strong>Terms of Service:</strong> <a href="../terms-of-service.html">View Terms</a></li>
+    <li><strong>Privacy Policy:</strong> <a href="../privacy-policy.html">View Privacy Policy</a></li>
+    <li><strong>Demo Video:</strong> Uploaded via TikTok Developer Portal</li>
+    <li><strong>Scopes Used:</strong> Login Kit, Content Posting API, Display API, Share Kit</li>
+    <li><strong>Sandbox Environment:</strong> Configured and shown in demo</li>
+    <li><strong>Platform Support:</strong> Web, Desktop, Android, iOS</li>
+  </ul>
+  <p>This page confirms that all required assets and documentation are hosted and accessible for TikTok app review.</p>
+</body>
+</html>
